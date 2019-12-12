@@ -1,0 +1,274 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:2:1-50:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/0b12f5a18a636b107b5d5a3712e6b7b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.2.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-permissionsdispatcher-3.2.0.aar/cb9deb2073a27b49ae643019e83cf1be/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/legacy-support-v13-1.0.0.aar/8947db97362928bbabe009d12e9fb93f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-15.0.0.aar/ff34b0f9916b869d48414d4dcf710ca3/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-15.0.0.aar/64f4cc98b8a21f967d0a7b3a009735af/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-android-maps-utils-0.5.aar/6b8b1e74f810dee2fe9eb73dc39a480c/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-15.0.1.aar/f754f6c9fe9bdb770f18a07407afda38/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/9cafde95ab351db32b4bef367f90e610/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-15.0.1.aar/347cbb387ca9f06c5b3bc86850dc5825/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-15.0.1.aar/564a3d793d124564ddff996110df6a31/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/d5f870c2a4c50752f1e9333e635e4e9d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/e72ce191a8b2c6817eee9f5667e2ee39/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/1fa4f0c337004c98af23b2a8fbec57dd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d23a89ff36588e105cfbbd0561a29c41/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/9ca28348d9f82f2804275244ae77c91f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/6162c602474f3b820e717f740e2b2a34/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/d7a8c23379c204feabb59948ad91adcb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/aa3c113ca720a36db7776529fec7da6d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/9ec57e179d103876aa5435dd4bc70745/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/670af09fc7903cf1e22059e59501533a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b023dbcfe4ce40eb1a53607eae46a139/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/5d87ec0246ba290790fcb107603db052/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/cf5b2d123637ce921f75f7f281edb747/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/cb8455e217baffcff2a6f144b48b2452/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/71e4578a161cfd5037138038b1218de3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/594fe4e6b14ef68d1d8cebad01ad6a88/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/8c4c84d0deb4cc74f6696c0763bd2b7b/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/7aabb831492205287264e6d1d1161306/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/35512f36e4450930959b3b8d28d51196/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/4e4888894583f0aa051cbafb2092d2b9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/873cbd2f51379327ea4fc53f9e847d26/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/29e69879701a411b380abafc8740cc9c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/3941bfc38d9d173a723ff3619fe59081/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/ff3a54ffe51c968036af307360e36b1f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/98cae9fc22afc434c6609d528651c565/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/9afff7b0ce6769a9c0ec1cad3040c622/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/b50d45cc17722641dfcbf23d28f19c69/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml
+permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:7:5-109
+	android:protectionLevel
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:7:72-107
+	android:name
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:7:17-71
+permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:8:5-111
+	android:protectionLevel
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:8:74-109
+	android:name
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:8:17-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-15.0.0.aar/ff34b0f9916b869d48414d4dcf710ca3/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-15.0.0.aar/ff34b0f9916b869d48414d4dcf710ca3/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#com.example.mapdemo.permission.MAPS_RECEIVE
+ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:11:5-83
+	android:name
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:11:22-80
+uses-permission#android.permission.INTERNET
+ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-15.0.0.aar/ff34b0f9916b869d48414d4dcf710ca3/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-15.0.0.aar/ff34b0f9916b869d48414d4dcf710ca3/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:14:22-78
+uses-feature#0x00020000
+ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:16:5-18:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-15.0.0.aar/ff34b0f9916b869d48414d4dcf710ca3/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-15.0.0.aar/ff34b0f9916b869d48414d4dcf710ca3/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:17:9-41
+	android:required
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:18:9-32
+application
+ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:20:5-48:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-15.0.0.aar/ff34b0f9916b869d48414d4dcf710ca3/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-15.0.0.aar/ff34b0f9916b869d48414d4dcf710ca3/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-15.0.0.aar/64f4cc98b8a21f967d0a7b3a009735af/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-15.0.0.aar/64f4cc98b8a21f967d0a7b3a009735af/AndroidManifest.xml:7:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-android-maps-utils-0.5.aar/6b8b1e74f810dee2fe9eb73dc39a480c/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-android-maps-utils-0.5.aar/6b8b1e74f810dee2fe9eb73dc39a480c/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-15.0.1.aar/f754f6c9fe9bdb770f18a07407afda38/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-15.0.1.aar/f754f6c9fe9bdb770f18a07407afda38/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/9cafde95ab351db32b4bef367f90e610/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/9cafde95ab351db32b4bef367f90e610/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-15.0.1.aar/347cbb387ca9f06c5b3bc86850dc5825/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-15.0.1.aar/347cbb387ca9f06c5b3bc86850dc5825/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-15.0.1.aar/564a3d793d124564ddff996110df6a31/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-15.0.1.aar/564a3d793d124564ddff996110df6a31/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/594fe4e6b14ef68d1d8cebad01ad6a88/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/594fe4e6b14ef68d1d8cebad01ad6a88/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/8c4c84d0deb4cc74f6696c0763bd2b7b/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/8c4c84d0deb4cc74f6696c0763bd2b7b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/594fe4e6b14ef68d1d8cebad01ad6a88/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:22:9-45
+	android:allowBackup
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:24:9-40
+uses-library#org.apache.http.legacy
+ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:27:9-88
+	android:required
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:27:61-85
+	android:name
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:27:23-60
+activity#com.example.mapdemo.MapDemoActivity
+ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:30:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:35:27-74
+uses-library#com.google.android.maps
+ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:39:9-88
+	android:required
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:39:23-46
+	android:name
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:39:47-85
+meta-data#com.google.android.gms.version
+ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:41:9-43:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-android-maps-utils-0.5.aar/6b8b1e74f810dee2fe9eb73dc39a480c/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-android-maps-utils-0.5.aar/6b8b1e74f810dee2fe9eb73dc39a480c/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-15.0.1.aar/564a3d793d124564ddff996110df6a31/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-15.0.1.aar/564a3d793d124564ddff996110df6a31/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:43:13-66
+	android:name
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:42:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:45:9-47:59
+	android:value
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml:46:13-62
+uses-sdk
+INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml
+INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/0b12f5a18a636b107b5d5a3712e6b7b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/0b12f5a18a636b107b5d5a3712e6b7b2/AndroidManifest.xml:20:5-44
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.2.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-permissionsdispatcher-3.2.0.aar/cb9deb2073a27b49ae643019e83cf1be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.2.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-permissionsdispatcher-3.2.0.aar/cb9deb2073a27b49ae643019e83cf1be/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/legacy-support-v13-1.0.0.aar/8947db97362928bbabe009d12e9fb93f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/legacy-support-v13-1.0.0.aar/8947db97362928bbabe009d12e9fb93f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-15.0.0.aar/ff34b0f9916b869d48414d4dcf710ca3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-maps-15.0.0.aar/ff34b0f9916b869d48414d4dcf710ca3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-15.0.0.aar/64f4cc98b8a21f967d0a7b3a009735af/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-15.0.0.aar/64f4cc98b8a21f967d0a7b3a009735af/AndroidManifest.xml:5:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-android-maps-utils-0.5.aar/6b8b1e74f810dee2fe9eb73dc39a480c/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-android-maps-utils-0.5.aar/6b8b1e74f810dee2fe9eb73dc39a480c/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-15.0.1.aar/f754f6c9fe9bdb770f18a07407afda38/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-15.0.1.aar/f754f6c9fe9bdb770f18a07407afda38/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/9cafde95ab351db32b4bef367f90e610/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/9cafde95ab351db32b4bef367f90e610/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-15.0.1.aar/347cbb387ca9f06c5b3bc86850dc5825/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-15.0.1.aar/347cbb387ca9f06c5b3bc86850dc5825/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-15.0.1.aar/564a3d793d124564ddff996110df6a31/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-15.0.1.aar/564a3d793d124564ddff996110df6a31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/d5f870c2a4c50752f1e9333e635e4e9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/d5f870c2a4c50752f1e9333e635e4e9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/e72ce191a8b2c6817eee9f5667e2ee39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/e72ce191a8b2c6817eee9f5667e2ee39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/1fa4f0c337004c98af23b2a8fbec57dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/1fa4f0c337004c98af23b2a8fbec57dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d23a89ff36588e105cfbbd0561a29c41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d23a89ff36588e105cfbbd0561a29c41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/9ca28348d9f82f2804275244ae77c91f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/9ca28348d9f82f2804275244ae77c91f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/6162c602474f3b820e717f740e2b2a34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/6162c602474f3b820e717f740e2b2a34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/d7a8c23379c204feabb59948ad91adcb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/d7a8c23379c204feabb59948ad91adcb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/aa3c113ca720a36db7776529fec7da6d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/aa3c113ca720a36db7776529fec7da6d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/9ec57e179d103876aa5435dd4bc70745/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/9ec57e179d103876aa5435dd4bc70745/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/670af09fc7903cf1e22059e59501533a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/670af09fc7903cf1e22059e59501533a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b023dbcfe4ce40eb1a53607eae46a139/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b023dbcfe4ce40eb1a53607eae46a139/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/5d87ec0246ba290790fcb107603db052/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/5d87ec0246ba290790fcb107603db052/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/cf5b2d123637ce921f75f7f281edb747/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/cf5b2d123637ce921f75f7f281edb747/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/cb8455e217baffcff2a6f144b48b2452/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/cb8455e217baffcff2a6f144b48b2452/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/71e4578a161cfd5037138038b1218de3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/71e4578a161cfd5037138038b1218de3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/594fe4e6b14ef68d1d8cebad01ad6a88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/594fe4e6b14ef68d1d8cebad01ad6a88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/8c4c84d0deb4cc74f6696c0763bd2b7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/8c4c84d0deb4cc74f6696c0763bd2b7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/7aabb831492205287264e6d1d1161306/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/7aabb831492205287264e6d1d1161306/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/35512f36e4450930959b3b8d28d51196/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/35512f36e4450930959b3b8d28d51196/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/4e4888894583f0aa051cbafb2092d2b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/4e4888894583f0aa051cbafb2092d2b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/873cbd2f51379327ea4fc53f9e847d26/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/873cbd2f51379327ea4fc53f9e847d26/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/29e69879701a411b380abafc8740cc9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/29e69879701a411b380abafc8740cc9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/3941bfc38d9d173a723ff3619fe59081/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/3941bfc38d9d173a723ff3619fe59081/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/ff3a54ffe51c968036af307360e36b1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/ff3a54ffe51c968036af307360e36b1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/98cae9fc22afc434c6609d528651c565/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/98cae9fc22afc434c6609d528651c565/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/9afff7b0ce6769a9c0ec1cad3040c622/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/9afff7b0ce6769a9c0ec1cad3040c622/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/b50d45cc17722641dfcbf23d28f19c69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/b50d45cc17722641dfcbf23d28f19c69/AndroidManifest.xml:20:5-44
+INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml
+INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml
+		ADDED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/superlucy/Desktop/errr lucy/98291 android/Final/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-15.0.1.aar/f754f6c9fe9bdb770f18a07407afda38/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-15.0.1.aar/f754f6c9fe9bdb770f18a07407afda38/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-15.0.1.aar/f754f6c9fe9bdb770f18a07407afda38/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/superlucy/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-15.0.1.aar/f754f6c9fe9bdb770f18a07407afda38/AndroidManifest.xml:24:13-79
